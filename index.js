@@ -62,7 +62,7 @@ if(obj.length!=0)
 add.innerHTML=html;
 }
 else{
-    add.innerHTML="<h1>Notes</h1><p>No notes available right now</p>"
+    add.innerHTML="<h1>Notes</h1><br><p>No notes available right now</p>"
 }
 
 }
